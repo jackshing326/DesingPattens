@@ -1,0 +1,9 @@
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe.config
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csprojResolveAssemblyReference.cache
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.Form1.resources
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.Properties.Resources.resources
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.GenerateResource.Cache
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+D:\大話設計\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb

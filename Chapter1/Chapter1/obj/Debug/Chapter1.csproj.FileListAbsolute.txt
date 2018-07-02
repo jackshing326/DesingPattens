@@ -1,0 +1,15 @@
+D:\大話設計\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+D:\大話設計\Chapter1\Chapter1\bin\Debug\Chapter1.exe
+D:\大話設計\Chapter1\Chapter1\bin\Debug\Chapter1.pdb
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
+D:\大話設計\Chapter1\Chapter1\obj\Debug\MainWindow.baml
+D:\大話設計\Chapter1\Chapter1\obj\Debug\MainWindow.g.cs
+D:\大話設計\Chapter1\Chapter1\obj\Debug\App.g.cs
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1_MarkupCompile.cache
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.g.resources
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.Properties.Resources.resources
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.csproj.GenerateResource.Cache
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.exe
+D:\大話設計\Chapter1\Chapter1\obj\Debug\Chapter1.pdb
+D:\大話設計\Chapter1\Chapter1\bin\Debug\Operators.dll
+D:\大話設計\Chapter1\Chapter1\bin\Debug\Operators.pdb

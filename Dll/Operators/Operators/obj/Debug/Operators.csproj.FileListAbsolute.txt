@@ -1,0 +1,4 @@
+D:\大話設計\Dll\Operators\Operators\bin\Debug\Operators.dll
+D:\大話設計\Dll\Operators\Operators\bin\Debug\Operators.pdb
+D:\大話設計\Dll\Operators\Operators\obj\Debug\Operators.dll
+D:\大話設計\Dll\Operators\Operators\obj\Debug\Operators.pdb

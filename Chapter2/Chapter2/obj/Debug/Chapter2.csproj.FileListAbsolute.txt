@@ -1,0 +1,15 @@
+D:\大話設計\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+D:\大話設計\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+D:\大話設計\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+D:\大話設計\Chapter2\Chapter2\bin\Debug\Cash.dll
+D:\大話設計\Chapter2\Chapter2\bin\Debug\Cash.pdb
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache
+D:\大話設計\Chapter2\Chapter2\obj\Debug\MainWindow.baml
+D:\大話設計\Chapter2\Chapter2\obj\Debug\MainWindow.g.cs
+D:\大話設計\Chapter2\Chapter2\obj\Debug\App.g.cs
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2_MarkupCompile.cache
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.g.resources
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.Properties.Resources.resources
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.csproj.GenerateResource.Cache
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+D:\大話設計\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

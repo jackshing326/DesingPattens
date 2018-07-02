@@ -1,0 +1,26 @@
+﻿<Window x:Class="Chapter1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="288.309" Width="268.166">
+    <Grid Margin="0,0,16,8">
+        <Label Content="Number1" HorizontalAlignment="Left" Margin="44,45,0,0" VerticalAlignment="Top" Height="29" Width="74" Cursor="No" IsEnabled="False" Foreground="#FF917E7E">
+            <Label.CacheMode>
+                <BitmapCache/>
+            </Label.CacheMode>
+        </Label>
+        <Label Content="Number2" HorizontalAlignment="Left" Margin="44,74,0,0" VerticalAlignment="Top" Height="29" Width="74"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" BorderBrush="#FF2E395B" Name="TB_Number1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" BorderBrush="#FF2E395B" Name="TB_Number2"/>
+        <Button Content="計算" HorizontalAlignment="Left" Margin="123,143,0,0" VerticalAlignment="Top" Width="109" Height="27" Click="Button_Click_1"/>
+        <Label Content="Operator" HorizontalAlignment="Left" Margin="44,106,0,0" VerticalAlignment="Top" Height="24" Width="74"/>
+        <ComboBox HorizontalAlignment="Left" Margin="123,109,0,0" VerticalAlignment="Top" Width="109" Name="Operators">
+            <Button Content="+"/>
+            <Button Content="-"/>
+            <Button Content="*"/>
+            <Button Content="/"/>
+        </ComboBox>
+        <Label Content="結果" HorizontalAlignment="Left" Margin="52,184,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.07,-0.258" Width="66"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" BorderBrush="#FF2E395B" x:Name="Result_Cal"/>
+
+    </Grid>
+</Window>

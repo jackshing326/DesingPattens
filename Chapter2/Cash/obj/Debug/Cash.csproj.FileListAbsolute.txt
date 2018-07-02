@@ -1,0 +1,4 @@
+D:\大話設計\Chapter2\Cash\bin\Debug\Cash.dll
+D:\大話設計\Chapter2\Cash\bin\Debug\Cash.pdb
+D:\大話設計\Chapter2\Cash\obj\Debug\Cash.dll
+D:\大話設計\Chapter2\Cash\obj\Debug\Cash.pdb
